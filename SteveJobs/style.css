@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+body{
+    font-family: 'Lato';
+
+    
+}
+header{
+    text-align: center;
+    font-weight: 100;
+    font-size: 3rem;
+    padding-bottom: 1em;
+}
+
+.image{
+display: flex; 
+justify-content: flex-end;
+}
+section{
+    
+    display: flex;
+    border: .1em white solid;
+    letter-spacing: 0.05em;
+    word-spacing: 0.08em;
+    line-height: 1.5em;
+    
+}
+footer{
+    padding: 5rem;
+    text-align: center;
+    font-size: 1em;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+li{
+    list-style-type: none;
+}
